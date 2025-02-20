@@ -61,9 +61,9 @@ print(response.json())
 
 ## Documentation 📚
 
-- [API Documentation](https://docs.youremailvalidator.com/docs-api)
+- [API Documentation](https://youremailvalidator.com/docs-api)
 <!-- - [Installation Guide](https://docs.youremailvalidator.com/installation) -->
-- [FAQ](https://docs.youremailvalidator.com/#faq)
+- [FAQ](https://youremailvalidator.com/#faq)
 
 ## Plans & Pricing 💰
 

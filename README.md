@@ -69,7 +69,7 @@ print(response.json())
 
 | Feature                | Free      | DONATUR  |
 | ---------------------- | --------- | -------- |
-| Daily Requests         | 100       | 100,000  |
+| Daily Requests         | 100       | Unlimited|
 | Email Validation       | ✅        | ✅       |
 | Disposable Check       | ✅        | ✅       |
 | MX Record Verification | ❌        | ✅       |
